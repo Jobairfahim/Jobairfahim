@@ -9,7 +9,6 @@
 - 🌐 Skilled in **MongoDB, Express.js, React, and Node.js (MERN)**.  
 - 🎯 Currently exploring **Next.js, TypeScript, and API integrations**.  
 - 💡 I love building projects that blend **clean design + powerful functionality**.  
-- 🧩 Fun fact: I debug faster when I have coffee ☕.
 
 ---
 
@@ -34,8 +33,6 @@
 🔹 [⚡ Portfolio Website](https://github.com/Jobairfahim/portfolio)  
 > A personal portfolio built with React & TailwindCSS showcasing my projects.
 
-🔹 [🧾 Task Manager API](https://github.com/Jobairfahim/task-manager)  
-> Node.js + MongoDB REST API for managing daily productivity tasks.
 
 ---
 
