@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm S M Jobair Hossain Fahim</h1>
-<h3 align="center">💻 MERN Stack Developer | Passionate About Building Scalable Web Apps</h3>
+<h3 align="center">💻Frontend Developer | Passionate About Building Scalable Web Apps</h3>
 
 ---
 
