@@ -5,8 +5,8 @@
 
 ### 🧠 About Me
 
-- 🚀 I’m a **Full Stack Web Developer** focused on creating dynamic, user-friendly web applications.  
-- 🌐 Skilled in **MongoDB, Express.js, React, and Node.js (MERN)**.  
+- 🚀 I’m a **Frontend Web Developer** focused on creating dynamic, user-friendly web applications.  
+- 🌐 Skilled in **Html, TailwindCSS, React, and Node.js **.  
 - 🎯 Currently exploring **Next.js, TypeScript, and API integrations**.  
 - 💡 I love building projects that blend **clean design + powerful functionality**.  
 
@@ -18,7 +18,7 @@
 `React.js` • `Tailwind CSS` • `JavaScript (ES6+)` • `HTML` • `CSS` • `Vite`
 
 #### 🧠 Backend
-`Node.js` • `Express.js` • `MongoDB` • `REST API` • `JWT` • `Mongoose`
+`Node.js`  • `MongoDB` • `REST API` • `JWT` • `Mongoose`
 
 #### 🧰 Tools & Platforms
 `Git` • `GitHub` • `VS Code` • `Postman` • `Vercel` • `Render`
