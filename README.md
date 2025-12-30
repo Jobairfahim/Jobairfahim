@@ -1,85 +1,96 @@
+<!-- HERO -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#22c55e;">S M Jobair Hossain Fahim</span>
+  👋 Hey, I’m <span style="color:#22c55e;">S M Jobair Hossain Fahim</span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Apps;Clean+UI+%2B+Great+UX" />
-</p>
+<h3 align="center">
+  Frontend Developer • UI Engineer • Web Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jobairfahim&style=flat-square&color=22c55e" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=540&lines=Crafting+Modern+Web+Interfaces;React+%7C+Next.js+%7C+Tailwind;Clean+UI+%2B+Thoughtful+UX;Performance+Driven+Development" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jobairfahim&label=Profile+Views&style=flat&color=22c55e" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ Who I Am
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💻 Frontend Developer passionate about **modern UI & scalable apps**
-- ⚛️ React, Tailwind CSS, JavaScript (ES6+)
-- 🌱 Currently exploring **Next.js & TypeScript**
-- 🎯 Focused on performance, accessibility & clean design
-- ✨ I build things that *look good and work fast*
+I’m a **Frontend Developer** who enjoys turning ideas into **beautiful, fast, and scalable web experiences**.
 
----
+- ⚛️ Specialized in **React, Tailwind CSS & modern JavaScript**
+- 🌱 Currently diving deeper into **Next.js & TypeScript**
+- 🎯 Strong focus on **UI consistency, performance & accessibility**
+- 💡 I care about *how things feel*, not just how they look
 
-## ⚙️ Tech Stack
-
-### 🖥️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite" />
-</p>
-
-### 🧠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
-</p>
+> I believe great products live at the intersection of **design, performance, and usability**.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Arsenal
 
-### 🍔 Online Food Ordering System
-🔗 https://github.com/Jobairfahim/food-ordering-system  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite&theme=dark" />
+</p>
 
-🧩 **MERN Stack Application**
+### 🧠 Backend (Foundations)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+</p>
+
+### ⚙️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&theme=dark" />
+</p>
+
+---
+
+## 🌟 Highlighted Work
+
+### 🍔 Online Food Ordering System  
+🔗 **Repo:** https://github.com/Jobairfahim/food-ordering-system  
+
+**Full-stack MERN application** designed for real-world usage:
+
 - 🗺️ Google Maps integration
-- 💳 Online payment system
+- 💳 Secure online payments
 - 🚚 Live order tracking
-- 👥 Admin, Rider & Customer dashboards
+- 👥 Separate dashboards for **Admin, Rider & Customer**
 
 ---
 
-### ⚡ Portfolio Website
-🔗 https://my-portfolio-pink-five-18.vercel.app/  
+### ⚡ Personal Portfolio  
+🔗 **Live:** https://my-portfolio-pink-five-18.vercel.app/  
 
-🎨 **React + Tailwind CSS**
-- Modern responsive UI
-- Project showcase
-- Smooth animations
+Built to reflect my design & frontend philosophy:
+
+- 🎨 Modern, responsive UI
+- ✨ Smooth animations
+- 📱 Mobile-first approach
+- 🚀 Optimized for performance
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jobairfahim&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobairfahim&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jobairfahim&show_icons=true&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jobairfahim&hide_border=true&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobairfahim&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobairfahim&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jobairfahim/Jobairfahim/output/github-contribution-grid-snake.svg" />
@@ -87,7 +98,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/jobairfahim">
@@ -101,9 +112,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="36" />
 </p>
 
 <p align="center">
-  ✨ <i>Code is like art — clean, expressive, and built with purpose.</i>
+  <i>Design with intent. Code with clarity. Build with purpose.</i>
 </p>
