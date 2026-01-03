@@ -90,10 +90,14 @@ Built to reflect my design & frontend philosophy:
 
 ---
 
-## 🐍 Contribution Flow
+## ⚡ Coding Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jobairfahim/Jobairfahim/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jobairfahim&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jobairfahim&theme=tokyonight" />
 </p>
 
 ---
